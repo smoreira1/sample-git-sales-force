@@ -9,4 +9,6 @@
     - Where 'StephenScratchOrg' is your scratch org. This will setup the scratch org to be the default in your local repo directory.
 5. Once you have a generated community, run a pull on your scratch org with the following command: "sfdx force:source:pull"
     - This will pull the files generated for the scratch org community. 
-6.
+6. Create a new directory with the following command "mkdir mdapi_output_dir"
+7. Convert from source format to metadata format. Run the following command: "sfdx force:source:convert -d mdapi_output_dir/ --packagename eBusiness" 
+8. 
