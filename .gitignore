@@ -1,3 +1,4 @@
 node_modules
 .sfdx
 mdapi_output_dir
+.vscode
