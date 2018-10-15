@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>eBiz</members>
+    <members>eBizDummyComponent</members>
     <members>forgotPassword</members>
     <members>loginForm</members>
     <members>setExpId</members>
