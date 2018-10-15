@@ -5,3 +5,4 @@
 package.xml
 *.scss
 *.css.map
+force-app\main\default\aura\styles.css
