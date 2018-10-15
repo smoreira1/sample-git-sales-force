@@ -4,7 +4,6 @@
     <name>AuraDefinitionBundle</name>
     <members>forgotPassword</members>
     <members>loginForm</members>
-    <members>selfRegister</members>
     <members>setExpId</members>
     <members>setStartUrl</members>
   </types>
@@ -26,8 +25,6 @@
     <members>LightningForgotPasswordControllerTest</members>
     <members>LightningLoginFormController</members>
     <members>LightningLoginFormControllerTest</members>
-    <members>LightningSelfRegisterController</members>
-    <members>LightningSelfRegisterControllerTest</members>
     <members>MyProfilePageController</members>
     <members>MyProfilePageControllerTest</members>
     <members>SiteLoginController</members>
@@ -42,14 +39,6 @@
     <members>SiteHeader</members>
     <members>SiteLogin</members>
     <members>SitePoweredBy</members>
-  </types>
-  <types>
-    <name>NetworkBranding</name>
-    <members>cbeBiz</members>
-  </types>
-  <types>
-    <name>Network</name>
-    <members>eBiz</members>
   </types>
   <types>
     <name>ApexPage</name>
@@ -75,18 +64,6 @@
     <members>StdExceptionTemplate</members>
     <members>Unauthorized</members>
     <members>UnderConstruction</members>
-  </types>
-  <types>
-    <name>Profile</name>
-    <members>eBiz Profile</members>
-  </types>
-  <types>
-    <name>SiteDotCom</name>
-    <members>eBiz1</members>
-  </types>
-  <types>
-    <name>CustomSite</name>
-    <members>eBiz</members>
   </types>
   <types>
     <name>StaticResource</name>

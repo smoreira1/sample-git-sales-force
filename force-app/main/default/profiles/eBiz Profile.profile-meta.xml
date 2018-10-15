@@ -195,7 +195,7 @@
         <name>EnableNotifications</name>
     </userPermissions>
     <userPermissions>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <name>PasswordNeverExpires</name>
     </userPermissions>
 </Profile>
