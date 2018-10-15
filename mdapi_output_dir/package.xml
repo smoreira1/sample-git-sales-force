@@ -77,6 +77,7 @@
     <members>lts_sinon</members>
     <members>lts_testutil</members>
     <members>mochaExampleTests</members>
+    <members>sentryMin411</members>
   </types>
   <version>43.0</version>
   <fullName>eBusiness</fullName>
