@@ -6,3 +6,8 @@ package.xml
 *.scss
 *.css.map
 force-app\main\default\aura\styles.css
+force-app\main\default\networks
+force-app\main\default\networkBranding
+force-app\main\default\sites
+force-app\main\default\siteDotComSites
+force-app\main\default\profiles
