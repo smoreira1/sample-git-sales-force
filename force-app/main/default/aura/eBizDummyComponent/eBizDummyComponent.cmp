@@ -1,4 +1,7 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes" access="global">
     <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+    <ltng:require 
+    scripts="{!$Resource.sentryMin411Lightning}"
+    afterScriptsLoaded="{!c.scriptsLoaded}" />
     <p>Dummy</p>
 </aura:component>

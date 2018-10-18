@@ -25,6 +25,7 @@ SFDX CLI
 https://developer.salesforce.com/tools/sfdxcli
 NODE/NPM
 https://nodejs.org/en/
-
+## Mackaroo
+https://www.mockaroo.com/
 
 

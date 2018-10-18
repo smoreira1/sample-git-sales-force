@@ -58,15 +58,15 @@
     [
         "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness",
         {
-            "state": "u",
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1539610196620,
             "changeTime": 1539610196620,
-            "isWorkspace": true,
-            "contentHash": "46e1a6e16bd75a2335d384b0bb56e4b00bc80f15"
+            "contentHash": "46e1a6e16bd75a2335d384b0bb56e4b00bc80f15",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -2152,14 +2152,14 @@
     [
         "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1539632621542,
-            "changeTime": 1539632621542,
-            "contentHash": "ea711f2a7b41f59b303522d82f1e0acb0ed9bf75"
+            "modifiedTime": 1539880879239,
+            "changeTime": 1539880879239,
+            "contentHash": "7aca07f177ab789a82932823fe0eeeffbd4f2b9d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2451,14 +2451,14 @@
     [
         "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBiz\\eBiz.app",
         {
-            "state": "u",
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBiz\\eBiz.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 178,
             "modifiedTime": 1539632609760,
             "changeTime": 1539632609760,
-            "contentHash": "59fab7b4ec30e10afa502aeceab033d323b0d790"
+            "contentHash": "59fab7b4ec30e10afa502aeceab033d323b0d790",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2570,10 +2570,10 @@
         {
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBizDummyComponent\\eBizDummyComponent.cmp",
             "isDirectory": false,
-            "size": 190,
-            "modifiedTime": 1539627167202,
-            "changeTime": 1539627167202,
-            "contentHash": "acb8540353213de8bcdaa67f790767f259159b79",
+            "size": 305,
+            "modifiedTime": 1539880995890,
+            "changeTime": 1539880995890,
+            "contentHash": "946b85713b0075dca9c39dc564d037653d57f171",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2581,14 +2581,14 @@
     [
         "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBizDummyComponent\\eBizDummyComponent.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBizDummyComponent\\eBizDummyComponent.cmp-meta.xml",
             "isDirectory": false,
-            "size": 250,
-            "modifiedTime": 1539626596346,
-            "changeTime": 1539626596346,
-            "contentHash": "7d1b0a0f79ba986f44668d3aa71995c2b1415838",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 250,
+            "modifiedTime": 1539882684029,
+            "changeTime": 1539882684029,
+            "contentHash": "a53076e280acc680e96cc05d183670d0dae9e7b5"
         }
     ],
     [
@@ -2635,10 +2635,10 @@
         {
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\aura\\eBizDummyComponent\\eBizDummyComponentController.js",
             "isDirectory": false,
-            "size": 80,
-            "modifiedTime": 1539629819685,
-            "changeTime": 1539629819685,
-            "contentHash": "f2af237d864e0661eb649a3ce0106a4e0207730f",
+            "size": 324,
+            "modifiedTime": 1539882471483,
+            "changeTime": 1539882471483,
+            "contentHash": "d0b8814d18e32fdf84a0701411434f34d90e7d98",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -2737,14 +2737,40 @@
     [
         "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\eBizTestSuite.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\eBizTestSuite.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 340,
             "modifiedTime": 1539632621543,
             "changeTime": 1539632621544,
-            "contentHash": "2c63c3823835a0b5107792c3c97713341d384e84"
+            "contentHash": "2c63c3823835a0b5107792c3c97713341d384e84",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\sentryMin411Lightning.js",
+        {
+            "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\sentryMin411Lightning.js",
+            "isDirectory": false,
+            "size": 197336,
+            "modifiedTime": 1539882622465,
+            "changeTime": 1539882622465,
+            "contentHash": "a7397dfa8d27f28939b99ebc48808cc79bf4c9ea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\sentryMin411Lightning.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Projects\\DawnOfTime\\eBiz\\eBusiness\\force-app\\main\\default\\staticresources\\sentryMin411Lightning.resource-meta.xml",
+            "isDirectory": false,
+            "size": 221,
+            "modifiedTime": 1539616698578,
+            "changeTime": 1539880879239,
+            "contentHash": "7df0104af5ea8c00e74e521902bdf352d9c44729",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
